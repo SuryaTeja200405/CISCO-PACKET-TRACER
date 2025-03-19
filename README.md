@@ -87,7 +87,8 @@ exit
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## 📸 Screenshots
-(Add screenshots of network configurations and topology here)
+📌 Overview
+**Cisco Packet Tracer** project focused on **network topology design, device configurations, and real-world simulation of networking scenarios** of my college wifi networking system. The project demonstrates fundamental and advanced networking concepts, making it an excellent learning resource for networking enthusiasts and professionals.
 ![Cisco](https://github.com/user-attachments/assets/1cf07c12-619a-4a0f-ba9f-7862620a75a1)
 
 
