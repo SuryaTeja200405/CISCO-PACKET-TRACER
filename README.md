@@ -81,7 +81,7 @@ exit
 (Add a network diagram here showing device connections and configurations)
 
 ## 🤝 Contributors
-- **Your Name** - [GitHub Profile](https://github.com/SuryaTeja200405)
+- **Surya Teja Yellaboyina** - [GitHub Profile](https://github.com/SuryaTeja200405)
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
